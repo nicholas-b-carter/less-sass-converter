@@ -5,7 +5,7 @@ var fs = require('fs');
 var gulp = require('gulp');
 var rename = require('gulp-rename');
 var rimraf = require('gulp-rimraf');
-var sass = require('gulp-sass');
+var sass = require('gulp-ruby-sass');
 
 var CWD = process.cwd();
 
