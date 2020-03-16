@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "chalk": "^0.5.1",
-    "gulp": "^3.8.7",
+    "gulp": "^4.0.0",
     "gulp-file": "^0.1.0",
     "gulp-rename": "^1.2.0",
     "gulp-replace-task": "0.0.6",
